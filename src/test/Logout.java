@@ -1,6 +1,6 @@
 package test;
-
-public class Logout {
+import java.security.spec.RSAOtherPrimeInfo;
+class Logout {
     //create a class: Logout
     //add it to staging area
     //comit
